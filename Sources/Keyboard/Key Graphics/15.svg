@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.7792671mm"
+   height="3.7792752mm"
+   viewBox="0 0 3.7792671 3.7792752"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath365-0">
+      <path
+         d="M 0,300.977 H 833.992 V 0 H 0 Z"
+         id="path365-4" />
+    </clipPath>
+    <pattern
+       patternTransform="matrix(0.0917013,0,0,0.0917011,-7120.55,7634.36)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="60.7988"
+       height="60.7998"
+       id="pattern364-2">
+      <path
+         d="m 22.799,7.601 -15.199,0 0,-15.2 15.199,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path353-1" />
+      <path
+         d="m 53.199,7.601 -15.2,0 0,-15.2 15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path354-1" />
+      <path
+         d="m 22.799,22.8 15.2,0 0,-15.199 -15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path355-3" />
+      <path
+         d="m 53.199,22.8 15.2,0 0,-15.199 -15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path356-8" />
+      <path
+         d="m 22.799,37.999 -15.199,0 0,-15.199 15.199,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path357-8" />
+      <path
+         d="m 53.199,37.999 -15.2,0 0,-15.199 15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path358-2" />
+      <path
+         d="m 22.799,53.199 15.2,0 0,-15.2 -15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path359-2" />
+      <path
+         d="m 53.199,53.199 15.2,0 0,-15.2 -15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path360-2" />
+      <path
+         d="m -7.6,22.8 15.2,0 0,-15.199 -15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path361-1" />
+      <path
+         d="m -7.6,53.199 15.2,0 0,-15.2 -15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path362-4" />
+      <path
+         d="m 22.799,68.4 -15.199,0 0,-15.2 15.199,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path363-8" />
+      <path
+         d="m 53.199,68.4 -15.2,0 0,-15.2 15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path364-1" />
+    </pattern>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-103.1875,-146.57916)">
+    <g
+       id="g2"
+       transform="translate(81.756526,57.150106)">
+      <g
+         id="g18"
+         transform="matrix(0.26458333,0,0,0.26458333,-26.043819,39.794037)">
+        <path
+           style="color:#000000;fill:#000000;stroke-miterlimit:10;-inkscape-stroke:none"
+           d="m 134.57422,149.56641 v 10.71289 h 10.71289 v -10.71289 h -0.25 z m 0.5,0.5 h 9.71289 v 9.71289 h -9.71289 z"
+           id="path350"
+           transform="matrix(1.3333333,0,0,-1.3333333,0,401.30267)" />
+        <g
+           id="path352"
+           clip-path="url(#clipPath365-0)"
+           transform="matrix(1.3333333,0,0,-1.3333333,0,401.30267)">
+          <path
+             style="color:#000000;fill:url(#pattern364-2);fill-rule:evenodd;stroke-miterlimit:10;-inkscape-stroke:none"
+             d="m 145.038,149.816 h -10.213 v 10.213 h 10.213 z"
+             id="path2" />
+          <path
+             style="color:#000000;fill:#000000;fill-rule:evenodd;stroke-miterlimit:10;-inkscape-stroke:none"
+             d="m 134.57422,149.56641 v 10.71289 h 10.71289 v -10.71289 h -0.25 z m 0.5,0.5 h 9.71289 v 9.71289 h -9.71289 z"
+             id="path3" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

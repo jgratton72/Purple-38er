@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3.7793095mm"
+   height="3.7793076mm"
+   viewBox="0 0 3.7793095 3.7793076"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath435">
+      <path
+         d="M 0,300.977 H 833.992 V 0 H 0 Z"
+         id="path435" />
+    </clipPath>
+    <pattern
+       patternTransform="matrix(0.0917013,0,0,0.0917011,-7112.9,7634.04)"
+       patternUnits="userSpaceOnUse"
+       x="0"
+       y="0"
+       width="60.7988"
+       height="60.7998"
+       id="pattern448">
+      <path
+         d="m 22.799,7.601 -15.199,0 0,-15.2 15.199,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path437" />
+      <path
+         d="m 53.199,7.601 -15.2,0 0,-15.2 15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path438" />
+      <path
+         d="m 22.799,22.8 15.2,0 0,-15.199 -15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path439" />
+      <path
+         d="m 53.199,22.8 15.2,0 0,-15.199 -15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path440" />
+      <path
+         d="m 22.799,37.999 -15.199,0 0,-15.199 15.199,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path441" />
+      <path
+         d="m 53.199,37.999 -15.2,0 0,-15.199 15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path442" />
+      <path
+         d="m 22.799,53.199 15.2,0 0,-15.2 -15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path443" />
+      <path
+         d="m 53.199,53.199 15.2,0 0,-15.2 -15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path444" />
+      <path
+         d="m -7.6,22.8 15.2,0 0,-15.199 -15.2,0 0,15.199 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path445" />
+      <path
+         d="m -7.6,53.199 15.2,0 0,-15.2 -15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path446" />
+      <path
+         d="m 22.799,68.4 -15.199,0 0,-15.2 15.199,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path447" />
+      <path
+         d="m 53.199,68.4 -15.2,0 0,-15.2 15.2,0 0,15.2 z"
+         style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path448" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath449">
+      <path
+         d="M 0,300.977 H 833.992 V 0 H 0 Z"
+         id="path449" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.431246,-89.429166)">
+    <g
+       id="g23"
+       transform="matrix(0.26458333,0,0,0.26458333,-121.18234,39.679737)">
+      <path
+         id="path434"
+         d="m 414.722,149.492 h -10.213 v 10.213 h 10.213 z"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,401.30267)"
+         clip-path="url(#clipPath435)" />
+      <path
+         id="path436"
+         d="m 414.722,149.492 h -10.213 v 10.213 h 10.213 z"
+         style="fill:url(#pattern448);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,401.30267)"
+         clip-path="url(#clipPath449)" />
+    </g>
+  </g>
+</svg>
