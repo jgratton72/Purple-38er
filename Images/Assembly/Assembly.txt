@@ -1,1 +1,3 @@
-
+Notes.
+Had to lay C9 flat and put some insulation on top of the USB power to keep them from shorting the keyboard.
+before i did that the keyboard would not work when I clipped the case shut.
