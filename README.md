@@ -71,11 +71,12 @@ The `images/` folder contains a detailed visual archive of the design and build 
 ## 🛠 Assembly Notes
 
 - **USB Power Connector**:  
-  Insulate the top of the USB connector to prevent contact with the case lid.
+  Insulate the top of the USB connector to prevent contact with the tactile switches.
 
 - **Capacitor C9**:  
-  Angle C9 slightly to avoid shorting against the underside of the tactile switches.  
-  ⚠️ This issue caused keyboard failure when the case was closed.
+  Angle C9 flat 90 degrees away from the main board to avoid shorting against the underside of the tactile switches.
+  
+  ⚠️ These issues caused keyboard failure when the case was closed.
 
 ---
 
