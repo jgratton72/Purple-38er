@@ -71,7 +71,7 @@ The `images/` folder contains a detailed visual archive of the design and build 
 ## 🛠 Assembly Notes
 
 - **USB Power Connector**:  
-   the top of the USB connector to prevent contact with the underside of the tactile switches.
+   Insulate the top of the USB connector to prevent contact with the underside of the tactile switches.
 
 - **Capacitor C9**:  
   Angle C9 flat 90 degrees away from the main board to avoid shorting against the underside of the tactile switches.
